@@ -8,8 +8,13 @@
     font-family: 'Source Sans Pro', sans-serif;
   }
   
-  body {
-    font-size: 17px;
+  body, button, input {
+    font-size: 18px;
+  }
+
+  h1,h2,h3,h4,h5,h6,p,ul {
+    margin-bottom: 10px;
+    line-height: 160%;
   }
 
   a {
@@ -18,4 +23,14 @@
 
   a:hover {
       color: pink;
+  }
+
+  ul {
+    margin-left: 20px;
+  }
+
+  .logo {
+    font-family: 'Rounded Elegance', sans-serif;
+    font-weight: 400;
+    text-transform: lowercase;
   }

@@ -10,26 +10,20 @@
             <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
-            <a href="/newsletters/2021-07/">July 02021</a>
-            <a href="/newsletters/2021-06/">June 02021</a>
-            <a href="/newsletters/2021-05/">May 02021</a>
-            <a href="/newsletters/2021-04/">April 02021</a>
-            <a href="/newsletters/2021-03/">March 02021</a>
-            <a href="/newsletters/2021-02/">February 02021</a>
-            <a href="/newsletters/2021-01/">January 02021</a>
-            <a href="/newsletters/2021-02/">December 02021</a>
-            <a href="/newsletters/2021-01/">November 02021</a>
+            <a href="/2021-07">July 02021</a>
+            <a href="/2021-06">June 02021</a>
+            <a href="/2021-05">May 02021</a>
+            <a href="/2021-04">April 02021</a>
+            <a href="/2021-03">March 02021</a>
+            <a href="/2021-02">February 02021</a>
+            <a href="/2021-01">January 02021</a>
+            <a href="/2020-12">December 02021</a>
+            <a href="/2020-11">November 02021</a>
         </div>
     </nav>
 </header>
 
 <style>
-
-    .logo {
-        font-family: 'Rounded Elegance', sans-serif;
-        font-weight: 400;
-        text-transform: lowercase;
-    }
 
     .audioxide-archive-logo {
         border-right: 2px solid #f5f5f5;
