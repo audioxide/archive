@@ -23,7 +23,7 @@
         <li>Independent music journalism</li>
         <li>Open source web development</li>
     </ul>
-    <p>
+    <p class="further-links">
         Follow us on <a href="https://facebook.com/audioxide">Facebook</a>,
         <a href="https://twitter.com/audioxide">Twitter</a>,
         <a href="https://instagram.com/audioxidecom">Instagram</a>, and
@@ -72,6 +72,10 @@
         border-radius: 5px;
         padding: 10px;
         width: 90%;
+    }
+
+    .further-links {
+        color: gray;
     }
 
 </style>
