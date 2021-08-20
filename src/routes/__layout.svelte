@@ -8,3 +8,9 @@
 <main>
 	<slot />
 </main>
+
+<style>
+	main {
+		background-color: white;
+	}
+</style>
