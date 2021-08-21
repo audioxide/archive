@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Audioxide Archive: June 02021</title>
+    <title>Audioxide Archive: July 02021</title>
 </svelte:head>
 
 <head>
@@ -34,9 +34,9 @@
                     <td class="newsletter-section">
                         <table>
                             <tr>
-                                <td style="background-image: url('https://audioxide-wiki.neocities.org/Images/wolf-alice-promo-shot.jpeg')"
+                                <td style="background-image: url('http://i2.wp.com/www.michaelpollard.co.uk/wp-content/uploads/2021/02/The-Fall-This-Nations-Saving-Grace.jpg?w=1200')"
                                     class="lead-image">
-                                    <a class="lead-image-credit" href="https://www.jonowhite.com/">Photograph by Jono White →</a>
+                                    <a class="lead-image-credit" href="http://www.michaelpollard.co.uk/mark-e-smith-fall/">Photograph by Michael Pollard →</a>
                                 </td>
                             </tr>
                             <tr>
@@ -47,17 +47,14 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p class="month">June 02021</p>
-                                    <h2 class="title">True Blues</h2>
-                                    <p>It's been a low-key month with some breathtaking music.</p>
-                                    <p>Joni Mitchell's <i><strong>Blue</strong></i> turned 50, which was all the excuse we needed to listen together. What an album, what an artist, what a voice. Just wonderful. Singer-songwriters don't get much better.
-                                    </p>
-                                    <p>That was followed by a contemporary release - <i><strong>Blue Weekend</strong></i> by Wolf Alice. We're huge fans of the band, but were wary going in having heard the singles. We needn't have worried. It's a smashing album and they've  surely cemented their status as the best band in Britain.</p>
-                                    <p>To round things off we finally got a White Stripes record under our belts. <i><strong>White Blood Cells</strong></i> is hardly a classic, but it's classic White Stripes. Who in their right mind would want to change that?
-                                    </p>
-                                    <p>Elsewhere another Funnyfarm entry appeared, and a few more album artwork stories made it into the database. Nothing to report on the site development front, but we'll hopefully have a big, big update next time.</p>
-                                    <p>Be well,</p>
-                                    <p>André, Fred, and Andrew</p>
+                                    <p class="month">July 02021</p>
+                                    <h2 class="title">This is indeed It</h2>
+                                    <p>A stop-start month here as our lives slowly came out of hibernation. There are worse problems to have.</p>
+                                    <p>And there are worse artist around than Tyler, the Creator. In fact, it feels like there are few better at the moment. His new album <strong><i>CALL ME IF YOU GET LOST</i></strong> was an eclectic delight. The man can do no wrong.</p>
+                                    <p>Elsewhere we returned to our insufferable teen days to celebrate <strong><i>Is This It</i></strong> by The Strokes turning 20. We’re glad to report it’s as cool as ever. And finally we took inspiration from Kanye West’s creative process on <strong><i>Donda</i></strong>.</p>
+                                    <p>We continue to chip away at album artwork credits, and for those of you who think things look a little different this month, that’s because we’ve hit a major milestone on a new site feature.</p>
+                                    <p>Stay freazy,</p>
+                                    <p>André, Fred, and Andrew </p>
                                 </td>
                             </tr>
                         </table>
@@ -82,10 +79,10 @@
                                 <table width="215" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row">
                                     <tr>
                                         <td class="col" valign="top">
-                                            <img src="https://audioxide.com/api/images/album-artwork/blue-joni-mitchell-medium-square.jpg"
-                                                 alt="Album artwork of 'Blue' by Joni Mitchell"
+                                            <img src="https://audioxide.com/api/images/album-artwork/call-me-if-you-get-lost-tyler-the-creator-medium-square.jpg"
+                                                 alt="Album artwork of 'CALL ME IF YOU GET LOST' by Tyler, the Creator"
                                                  class="review-image"
-                                                 style="border: 3px solid #022158;">
+                                                 style="border: 3px solid #6ea375;">
                                         </td>
                                     </tr>
                                 </table>
@@ -93,10 +90,10 @@
                                 <table width="355" border="0" cellpadding="0" cellspacing="0" align="right" class="force-row">
                                     <tr>
                                         <td class="col review-info" valign="top">
-                                            <h4 class="review-album-name" style="color: #022158;">Blue</h4>
-                                            <h4 class="review-artist-name">Joni Mitchell</h4>
-                                            <p class="review-summary">‘The early 1970s was a golden era for singer-songwriters, but this stands alongside the very best. The beauty of Mitchell’s songwriting lies in its sheer simplicity. Arrangements are sparse, with often just a lone guitar or piano accompanying the sublime vocal performances.’</p>
-                                            <span><a href="https://audioxide.com/reviews/joni-mitchell-blue/">Read review</a> →</span>
+                                            <h4 class="review-album-name" style="color: #6ea375;">CALL ME IF YOU GET LOST</h4>
+                                            <h4 class="review-artist-name">Tyler, the Creator</h4>
+                                            <p class="review-summary">‘CALL ME IF YOU GET LOST transcends hip-hop. This is a buttery fusion of rap, soul, synth-pop, jazz, and a whole lot more. There’s even a reggae section that doesn’t fall flat on its face.’</p>
+                                            <span><a href="https://audioxide.com/reviews/tyler-the-creator-call-me-if-you-get-lost/">Read review</a> →</span>
                                         </td>
                                     </tr>
                                 </table>
@@ -111,10 +108,10 @@
                                     <table width="215" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row">
                                         <tr>
                                             <td class="col" valign="top">
-                                                <img src="https://audioxide.com/api/images/album-artwork/blue-weekend-wolf-alice-medium-square.jpg"
-                                                     alt="Album artwork of 'Blue Weekend' by Wolf Alice"
+                                                <img src="https://audioxide.com/api/images/album-artwork/is-this-it-the-strokes-medium-square.jpg"
+                                                     alt="Album artwork of 'Is This It' by The Strokes"
                                                      class="review-image"
-                                                     style="border: 3px solid #11b8ce;">
+                                                     style="border: 3px solid #c7292c;">
                                             </td>
                                         </tr>
                                     </table>
@@ -122,10 +119,10 @@
                                     <table width="355" border="0" cellpadding="0" cellspacing="0" align="right" class="force-row">
                                         <tr>
                                             <td class="col review-info" valign="top">
-                                                <h4 class="review-album-name" style="color: #11b8ce;">Blue Weekend</h4>
-                                                <h4 class="review-artist-name">Wolf Alice</h4>
-                                                <p class="review-summary">‘Ellie Rowsell’s customary drift between spoken-word musings and operatic soarings is alive and well, and the band as a whole is as simpatico as ever - if not moreso. Their gifts are just in service of gentler shapes this time around.’</p>
-                                                <span><a href="https://audioxide.com/reviews/wolf-alice-blue-weekend/">Read review</a> →</span>
+                                                <h4 class="review-album-name" style="color: #c7292c;">Is This It</h4>
+                                                <h4 class="review-artist-name">The Strokes</h4>
+                                                <p class="review-summary">‘The James Dean of indie rock. Cigarette perched on lower lip, bloodshot eyes squinting into the middle distance, the album remains the genre’s poster boy - the impossibly cool standard.’</p>
+                                                <span><a href="https://audioxide.com/reviews/the-strokes-is-this-it/">Read review</a> →</span>
                                             </td>
                                         </tr>
                                     </table>
@@ -140,10 +137,10 @@
                                     <table width="215" border="0" cellpadding="0" cellspacing="0" align="left" class="force-row">
                                         <tr>
                                             <td class="col" valign="top">
-                                                <img src="https://audioxide.com/api/images/album-artwork/white-blood-cells-the-white-stripes-medium-square.jpg"
-                                                     alt="Album artwork of 'White Blood Cells' by The White Stripes"
+                                                <img src="https://audioxide.com/api/images/album-artwork/donda-kanye-west-medium-square.jpg"
+                                                     alt="Album artwork of 'Donda' by Kanye West"
                                                      class="review-image"
-                                                     style="border: 3px solid #bc2711;">
+                                                     style="border: 3px solid #b60203;">
                                             </td>
                                         </tr>
                                     </table>
@@ -151,10 +148,10 @@
                                     <table width="355" border="0" cellpadding="0" cellspacing="0" align="right" class="force-row">
                                         <tr>
                                             <td class="col review-info" valign="top">
-                                                <h4 class="review-album-name" style="color: #bc2711;">White Blood Cells</h4>
-                                                <h4 class="review-artist-name">The White Stripes</h4>
-                                                <p class="review-summary">‘The record listens like rock music’s answer to an ice-cold six-pack of decentish lager. What goes on is unrefined, but that only adds to the pleasure of a cheap and cheerful good time.’</p>
-                                                <span><a href="https://audioxide.com/reviews/the-white-stripes-white-blood-cells/">Read review</a> →</span>
+                                                <h4 class="review-album-name" style="color: #b60203;">Donda</h4>
+                                                <h4 class="review-artist-name">Kanye West</h4>
+                                                <p class="review-summary">‘TBD.’</p>
+                                                <span><a href="https://audioxide.com/reviews/kanye-west-donda/">Read review</a> →</span>
                                             </td>
                                         </tr>
                                     </table>
@@ -183,39 +180,65 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p>We're in the process of crediting the artwork designer(s) of every album we've reviewed, and telling the stories behind them where possible. We only managed to add seven this month, but there were some cracking tales in their ranks. Select them and see.</p>
+                                    <p>We added 11 album artwork credits to the database this month (13 if you include new releases). That means a solid third of our reviews now include artwork credits. Progress is slow, but it’s progress all the same. You can see the full list of those added in July <a href="https://github.com/audioxide/data/pull/76" style="color: #f01d4f;">here</a>, but the four below were especially fun to learn about. Click them and see.</p>
                                     <table class="artwork-story-grid-container">
                                         <tr>
                                             <td>
-                                                <a href="https://audioxide.com/reviews/joy-division-unknown-pleasures/">
-                                                    <img src="https://audioxide.com/api/images/album-artwork/unknown-pleasures-joy-division-medium-square.jpg"
+                                                <a href="https://audioxide.com/reviews/the-fall-this-nations-saving-grace">
+                                                    <img src="https://audioxide.com/api/images/album-artwork/this-nations-saving-grace-the-fall-medium-square.jpg"
                                                          class="artwork-story-image"
-                                                         alt="Album artwork of 'Unkndown Pleasurs' by Joy Division"
-                                                         style="border: 3px solid black;">
+                                                         alt="Album artwork of 'This Nation's Saving Grace' by The Fall"
+                                                         style="border: 3px solid rgb(14, 18, 12);">
                                                 </a>
                                             </td>
                                             <td>
-                                                <a href="https://audioxide.com/reviews/fka-twigs-magdalene/">
-                                                    <img src="https://audioxide.com/api/images/album-artwork/magdalene-fka-twigs-medium-square.jpg"
+                                                <a href="https://audioxide.com/reviews/beastie-boys-hello-nasty/">
+                                                    <img src="https://audioxide.com/api/images/album-artwork/hello-nasty-beastie-boys-medium-square.jpg"
                                                          class="artwork-story-image"
-                                                         alt="Album artwork of 'MAGDALENE' by fka twigs"
-                                                         style="border: 3px solid rgb(249, 139, 67);
+                                                         alt="Album artwork of 'Hello Nasty' by Beastie Boys"
+                                                         style="border: 3px solid black;
                                                             margin: auto;
                                                             display: block;">
                                                 </a>
                                             </td>
                                             <td>
-                                                <a href="https://audioxide.com/reviews/nick-cave-and-the-bad-seeds-ghosteen/">
-                                                    <img src="https://audioxide.com/api/images/album-artwork/ghosteen-nick-cave-and-the-bad-seeds-medium-square.jpg/"
+                                                <a href="https://audioxide.com/reviews/kanye-west-the-college-dropout/">
+                                                    <img src="https://audioxide.com/api/images/album-artwork/the-college-dropout-kanye-west-medium-square.jpg"
                                                          class="artwork-story-image"
-                                                         alt="Album artwork 'Ghosteen' by Nick Cave and the Bad Seeds"
-                                                         style="border: 3px solid rgb(180, 197, 185);
-                                                            float: right;">
+                                                         alt="Album artwork of 'The College Dropout' by Kanye West"
+                                                         style="border: 3px solid rgb(59, 20, 21);
+                                                                float: right;">
                                                 </a>
                                             </td>
                                         </tr>
                                     </table>
-                                    <p>The <i><strong>Ghosteen</strong></i> one is especially fun. Totally bonkers. Progress is slow but steady. Around a third of our reviews now have album artwork credits.</p>
+                                    <p>Who knew that in the time before Photoshop people had no choice but to build giant sardine cans? Or that Dropout Bear was surrounded by 16th century illustrations? Or that the guy who did artwork for The Fall showed it to his psychiatrist afterwards? Ok fine, that last one isn’t surprising at all.</p>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+
+                <!-- SITE DEVELOPMENT -->
+
+                <tr>
+                    <td class="newsletter-section">
+                        <table>
+                            <tr>
+                                <td>
+                                    <h3 class="section-heading">
+                                        <span class="section-heading-wrapper">
+                                            Site development
+                                        </span>
+                                    </h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <p>We reached a big milestone on the site development front, and you’re looking at it. After tinkering away off and on for months we’ve finally built our own custom newsletter generator. We put in the date range and a script generates 90% of a newsletter for us using the site API.</p>
+                                    <p>This is part of a larger project to bring our monthly newsletters in-house as a kind of archive. Although it’s not quite there yet, we’ve got the shell of one going using <a href="https://kit.svelte.dev/" style="color: #f01d4f;">SvelteKit</a>:</p>
+                                    <img class="site-dev-image" src="https://audioxide-wiki.neocities.org/Images/audioxide-archive-preview.png">
+                                    <p>Fingers crossed that by this time next month we’ll have ironed out the kinks and integrated it with the site proper. Watch this space. As ever, if you’re interested in looking under the hood all our code is publically viewable on <a href="https://github.com/audioxide" style="color: #f01d4f;">GitHub</a>.</p>
                                 </td>
                             </tr>
                         </table>
