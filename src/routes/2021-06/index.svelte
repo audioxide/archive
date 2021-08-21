@@ -34,7 +34,7 @@
                     <td class="newsletter-section">
                         <table>
                             <tr>
-                                <td style="background-image: url('https://audioxide-wiki.neocities.org/Images/wolf-alice-promo-shot.jpeg')"
+                                <td style="background-image: url('static/images/leads/2021-06-wolf-alice-by-jono-white.jpg')"
                                     class="lead-image">
                                     <a class="lead-image-credit" href="https://www.jonowhite.com/">Photograph by Jono White →</a>
                                 </td>
