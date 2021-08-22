@@ -517,7 +517,7 @@
 
     .artwork-story-image {
         border-radius: 5px;
-        width: 90%;
+        width: 95%;
     }
 
     .artwork-story-image:hover {
