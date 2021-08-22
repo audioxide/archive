@@ -34,9 +34,9 @@
                     <td class="newsletter-section">
                         <table>
                             <tr>
-                                <td style="background-image: url('https://audioxide-wiki.neocities.org/Images/wolf-alice-promo-shot.jpeg')"
+                                <td style="background-image: url('https://audioxide-wiki.neocities.org/Images/wolf-alice-no-hard-feelings.JPG')"
                                     class="lead-image">
-                                    <a class="lead-image-credit" href="https://www.jonowhite.com/">Photograph by Jono White →</a>
+                                    <a class="lead-image-credit" href="https://www.promonews.tv/videos/2021/06/11/wolf-alice-blue-weekend-jordan-hemingway/71402">Photograph by Jordan Hemingway →</a>
                                 </td>
                             </tr>
                             <tr>
@@ -219,18 +219,6 @@
                                 </td>
                             </tr>
                         </table>
-                    </td>
-                </tr>
-
-                <tr>
-                    <td class="footer-text" align="left">
-                        <p>© Audioxide. All rights reserved. <a href="#" style="color: #aaaaaa;">Newsletters powered by EmailOctopus</a>.</p>
-                        <p>You are receiving this newsletter because you opted in on our website, or perhaps someone with your email address wanted you to suffer. In any case you can <a href="#" style="color: #aaaaaa;">unsubscribe from this list</a> if you want to.</p>
-
-                        <a href="https://audioxide.com">audioxide.com</a><br>
-
-                        <br><br>
-
                     </td>
                 </tr>
             </table><!--/600px container -->
