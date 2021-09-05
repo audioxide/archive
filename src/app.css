@@ -2,7 +2,7 @@
     font-family: 'Rounded Elegance';
     font-style: normal;
     font-weight: normal;
-    src: local('Rounded Elegance'), url('public/fonts/rounded-elegance.woff') format('woff');
+    src: local('Rounded Elegance'), url('fonts/rounded-elegance.woff') format('woff');
 }
 
 * {

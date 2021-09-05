@@ -15,7 +15,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- enable media queries for windows phone 8 -->
     <meta name="format-detection" content="date=no"> <!-- disable auto date linking in iOS 7-9 -->
     <meta name="format-detection" content="telephone=no"> <!-- disable auto telephone linking in iOS 7-9 -->
-    <title>Audioxide Archive Template</title>
+    <title>Audioxide Archive: July 02021</title>
 </head>
 <body style="margin:0; padding:0;" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
