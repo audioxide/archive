@@ -1,18 +1,18 @@
 <div class="newsletter-container">
 
-    <h1><span class="logo">Audioxide</span></h1>
+    <h1><span class="logo">Audioxide</span> Archive</h1>
 
     <p>
         Audioxide is three friends reviewing albums together since 2015. This archive is where we store our monthly
-        newsletters which round up the <strong>album reviews</strong>, <strong>articles</strong>,
-        <strong>interviews</strong>, and <strong>other oddities</strong> published.
+        newsletters, which round up the album reviews, articles,
+        interviews, and other oddities we've published.
     </p>
 
-    <div class="link-to-newsletter-signup"><a href="https://audioxide.eo.page/newsletter">Subscribe ❯</a></div>
+<!--    <div class="link-to-newsletter-signup"><a href="https://audioxide.eo.page/newsletter">Subscribe ❯</a></div>-->
 
     <p>
         Browse the old editions for music journalism (of sorts), open source web development, album artwork stories,
-        and other nice things like that.
+        and other nice things like that. Follow the link up top to subscribe, if you like.
     </p>
     <p class="further-links">
         Follow us on <a href="https://facebook.com/audioxide">Facebook</a>,
