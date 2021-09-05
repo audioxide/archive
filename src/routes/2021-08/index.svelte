@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Audioxide Archive: May 02021</title>
+    <title>Audioxide Archive: August 02021</title>
 </svelte:head>
 
 <!-- 100% background wrapper (grey background) -->
