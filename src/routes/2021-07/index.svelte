@@ -34,7 +34,7 @@
                     <td class="newsletter-section">
                         <table>
                             <tr>
-                                <td style="background-image: url('http://i2.wp.com/www.michaelpollard.co.uk/wp-content/uploads/2021/02/The-Fall-This-Nations-Saving-Grace.jpg?w=1200')"
+                                <td style="background-image: url('images/leads/2021-07-manchester-skyline-by-michael-pollard.jpg')"
                                     class="lead-image">
                                     <a class="lead-image-credit" href="http://www.michaelpollard.co.uk/mark-e-smith-fall/">Photograph by Michael Pollard →</a>
                                 </td>

@@ -3,6 +3,9 @@
     font-style: normal;
     font-weight: normal;
     src: local('Rounded Elegance'), url('fonts/rounded-elegance.woff') format('woff');
+    src: local('Rounded Elegance'), local('Rounded-Elegance'),
+          url('fonts/rounded-elegance.woff2') format('woff2'),
+          url('fonts/rounded-elegance.woff') format('woff')
 }
 
 * {
@@ -35,6 +38,5 @@
 
   .logo {
     font-family: 'Rounded Elegance', sans-serif;
-    font-weight: 400;
     text-transform: lowercase;
   }

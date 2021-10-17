@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Audioxide Archive: August 02021</title>
+    <title>Audioxide Archive: September 02021</title>
 </svelte:head>
 
 <!-- 100% background wrapper (grey background) -->
@@ -17,11 +17,11 @@
                     <td class="newsletter-section">
                         <table>
                             <tr>
-                                <td style="background-image: url('images/leads/2021-08-lingua-ignota-by-lisa-birds.jpg')"
+                                <td style="background-image: url('images/leads/2021-09-evening-snow-at-kanbera-by-utagawa-hiroshige.jpg')"
                                     class="lead-image">
                                     <a class="lead-image-credit"
-                                       href="https://www.slantmagazine.com/music/lingua-ignota-sinner-get-ready-album-review/">Photograph
-                                        by Lisa Birds →</a>
+                                       href="https://www.metmuseum.org/art/collection/search/56915">Artwork
+                                        by Utagawa Hiroshige →</a>
                                 </td>
                             </tr>
                             <tr>
@@ -33,22 +33,18 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p class="month">August 02021</p>
-                                    <h2 class="title">Sinners weren’t ready</h2>
-                                    <p>Summertime, and the livin' isn't easy exactly, but tolerable. It's fine.</p>
-                                    <p>Fish are jumpin', cotton is high, and Lingua Ignota blew us away with her
-                                        new album, <i><strong>Sinner Get Ready</strong></i>. Skin-crawlingly grand and
-                                        ghastly in equal measure, it ain't an easy listen, but in 279 reviews we've
-                                        heard nothing else like it.</p>
-                                    <p>We followed that up with T. Rex's glam rock catalyst, <i><strong>Electric
-                                        Warrior</strong></i>, which turns 50 in a few weeks. We were slightly taken
-                                        aback by how
-                                        rough and ready it was, though not at all by its stylishness. Marc Bolan. What a
-                                        man.</p>
-                                    <p>On the site development front we finally launched the archive! Our newsletters
-                                        now have an on-site home. It's rough around the edges, but its heart is in the
-                                        right place. That's the main thing, isn't it?</p>
-                                    <p>Until next time,</p>
+                                    <p class="month">September 02021</p>
+                                    <h2 class="title">Ain’t like Buddy Holly</h2>
+                                    <p>Short, sweet, and very, very late this time around.</p>
+                                    <p>Our output is often a little lethargic during the summer months, our lives taken over by
+                                        sunburn, hay fever, and the occasional good time with friends. True to form we only managed
+                                    one review in September - <i><strong>Pinkerton</strong></i> by Weezer. Much stranger than their debut,
+                                    and all the better for it.</p>
+                                    <p>Elsewhere we made some good progress on album artwork stories, adding ten more to the database.
+                                        They had a bit of everything this time around - space lobbies, family photos, the White House.
+                                        More to come. We’ll get them all eventually.
+                                    </p>
+                                    <p>Catch you soon,</p>
                                     <p>André, Fred, and Andrew</p>
                                 </td>
                             </tr>
@@ -80,9 +76,9 @@
                                            class="force-row">
                                         <tr>
                                             <td class="col" valign="top">
-                                                <img src="https://audioxide.com/api/images/album-artwork/sinner-get-ready-lingua-ignota-medium-square.jpg"
-                                                     alt="Album artwork of 'Sinner Get Ready' by Lingua Ignota"
-                                                     class="review-image" style="border: 3px solid rgb(181, 78, 83);">
+                                                <img src="https://audioxide.com/api/images/album-artwork/pinkerton-weezer-medium-square.jpg"
+                                                     alt="Album artwork of 'Pinkerton' by Weezer"
+                                                     class="review-image" style="border: 3px solid #000000;">
                                             </td>
                                         </tr>
                                     </table>
@@ -94,58 +90,11 @@
                                            class="force-row">
                                         <tr>
                                             <td class="col review-info" valign="top">
-                                                <h4 class="review-album-name" style="color: rgb(181, 78, 83);">Sinner
-                                                    Get Ready</h4>
-                                                <h4 class="review-artist-name">Lingua Ignota</h4>
-                                                <p class="review-summary">‘Inaccessible and a little terrifying from the
-                                                    outset, it isn’t an easy ride, but everything here feels incredibly
-                                                    considered, packed with evocative words and purposeful music.’</p>
+                                                <h4 class="review-album-name" style="color: #000;">Pinkerton</h4>
+                                                <h4 class="review-artist-name">Weezer</h4>
+                                                <p class="review-summary">‘I came for the singalong hooks, but I stayed for the stories Rivers told about himself - alone in his college dorm, sniffing envelopes sent to him by female fans, his leg held together by pins, fantasising about loves lost and loves unrequited.’</p>
                                                 <span><a
-                                                        href="https://audioxide.com/reviews/lingua-ignota-sinner-get-ready/">Read
-                                                            review</a> →</span>
-                                            </td>
-                                        </tr>
-                                    </table>
-
-                                    <!--[if mso]></td></tr></table><![endif]-->
-
-                                    <div class="review-divider"></div>
-                                    <hr class="hr">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <!--[if mso]>
-                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                        <tr>
-                                            <td width="50%" valign="top"><![endif]-->
-
-                                    <table width="215" border="0" cellpadding="0" cellspacing="0" align="left"
-                                           class="force-row">
-                                        <tr>
-                                            <td class="col" valign="top">
-                                                <img src="https://audioxide.com/api/images/album-artwork/electric-warrior-t-rex-medium-square.jpg"
-                                                     alt="Album artwork of 'Electric Warrior' by T. Rex"
-                                                     class="review-image" style="border: 3px solid #000;">
-                                            </td>
-                                        </tr>
-                                    </table>
-
-                                    <!--[if mso]></td>
-                                <td width="50%" valign="top"><![endif]-->
-
-                                    <table width="355" border="0" cellpadding="0" cellspacing="0" align="right"
-                                           class="force-row">
-                                        <tr>
-                                            <td class="col review-info" valign="top">
-                                                <h4 class="review-album-name" style="color: #000;">Electric Warrior</h4>
-                                                <h4 class="review-artist-name">T. Rex</h4>
-                                                <p class="review-summary">‘Centrepiece tracks indulge in their fair
-                                                    share of lush string and horn arrangements (and horniness, for that
-                                                    matter) but those moments are tempered by a down and dirtiness
-                                                    worthy of Jimi Hendrix or the Stones.’</p>
-                                                <span><a
-                                                        href="https://audioxide.com/reviews/t-rex-electric-warrior/">Read
+                                                        href="https://audioxide.com/reviews/weezer-pinkerton/">Read
                                                             review</a> →</span>
                                             </td>
                                         </tr>
@@ -177,73 +126,45 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <p>We're in the process of crediting the artwork designer(s) of every album we've
-                                        reviewed, and telling the stories behind them where possible. We added five more
-                                        to the database this month. Below were our favourites. Select them and see.</p>
+                                    <p>We did at least make good progress on the artwork credits front, adding no less than
+                                       ten to our database. There were some cracking stories among this batch. Always a pleasure
+                                       to learn the thinking behind our favourite covers. Below were the pick of the bunch.
+                                    </p>
                                     <table class="artwork-story-grid-container">
                                         <tr>
                                             <td>
-                                                <a href="https://audioxide.com/reviews/pulp-different-class/">
-                                                    <img src="https://audioxide.com/api/images/album-artwork/different-class-pulp-medium-square.jpg"
+                                                <a href="https://audioxide.com/reviews/wolf-alice-visions-of-a-life/">
+                                                    <img src="https://audioxide.com/api/images/album-artwork/visions-of-a-life-wolf-alice-medium-square.jpg"
                                                          class="artwork-story-image"
-                                                         alt="Album artwork of 'Different Class' by Pulp"
+                                                         alt="Album artwork of 'Visions of a Life' by Wolf Alice"
                                                          style="border: 3px solid #000;">
                                                 </a>
                                             </td>
                                             <td>
-                                                <a href="https://audioxide.com/reviews/led-zeppelin-led-zeppelin/">
-                                                    <img src="https://audioxide.com/api/images/album-artwork/led-zeppelin-led-zeppelin-medium-square.jpg"
+                                                <a href="https://audioxide.com/reviews/kendrick-lamar-to-pimp-a-butterfly/">
+                                                    <img src="https://audioxide.com/api/images/album-artwork/to-pimp-a-butterfly-kendrick-lamar-medium-square.jpg"
                                                          class="artwork-story-image"
-                                                         alt="Album artwork of 'Led Zeppelin' by Led Zeppelin"
+                                                         alt="Album artwork of 'To Pimp a Butterfly' by Kendrick Lamar"
                                                          style="border: 3px solid #000;
                                                             margin: auto;
                                                             display: block;">
                                                 </a>
                                             </td>
                                             <td>
-                                                <a href="https://audioxide.com/reviews/queens-of-the-stone-age-queens-of-the-stone-age/">
-                                                    <img src="https://audioxide.com/api/images/album-artwork/queens-of-the-stone-age-queens-of-the-stone-age-medium-square.jpg"
+                                                <a href="https://audioxide.com/reviews/arctic-monkeys-tranquility-base-hotel-and-casino/">
+                                                    <img src="https://audioxide.com/api/images/album-artwork/tranquility-base-hotel-and-casino-arctic-monkeys-medium-square.jpg"
                                                          class="artwork-story-image"
-                                                         alt="Album artwork of 'Queens of the Stone Age' by Queens of the Stone Age"
-                                                         style="border: 3px solid #a6327b;
+                                                         alt="Album artwork of 'Tranquility Base Hotel & Casino' by Arctic Monkeys"
+                                                         style="border: 3px solid #000;
                                                             float: right;">
                                                 </a>
                                             </td>
                                         </tr>
                                     </table>
-                                    <p>The Pulp one is from a real wedding, don't you know. The cheeky bastards didn't
-                                        tell the family what the photos were for. You can see the full list of
+                                    <p>Kendrick Lamar’s <i>To Pimp a Butterfly</i> was iconic as soon as it was released, but we reckon the other two will stand the 
+                                        test of time as well. No prizes for guessing which was inspired by the space-age art of Stanley Kubrick. You can see the full list of
                                         albums added this month <a
-                                                href="https://github.com/audioxide/data/pull/77">here</a>.</p>
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
-
-                <!-- SITE DEVELOPMENT -->
-
-                <tr>
-                    <td class="newsletter-section">
-                        <table>
-                            <tr>
-                                <td>
-                                    <h3 class="section-heading">
-                                            <span class="section-heading-wrapper">
-                                                Site development
-                                            </span>
-                                    </h3>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p>We did it, we finally launched the goddamn archive. All our newsletters now have
-                                        an on-site home at <a href="https://archive.audioxide.com">archive.audioxide.come</a>.
-                                    Only, they're not all there yet, and the site still needs a whole lot of
-                                    work. It's live, though, and we're dead chuffed.</p>
-                                    <p>While we were at it we also gave our Storybook a fancier home at <a href="https://design.audioxide.com">
-                                        design.audioxide.come</a>. We probably won't be adding anything new for a while
-                                    now. The name of the game for the next few months is improving what's already made.</p>
+                                                href="https://github.com/audioxide/data/pull/82">here</a>.</p>
                                 </td>
                             </tr>
                         </table>

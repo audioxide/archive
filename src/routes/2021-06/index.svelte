@@ -34,7 +34,7 @@
                     <td class="newsletter-section">
                         <table>
                             <tr>
-                                <td style="background-image: url('https://audioxide-wiki.neocities.org/Images/wolf-alice-no-hard-feelings.JPG')"
+                                <td style="background-image: url('images/leads/2021-06-wolf-alice-by-jordan-hemingway.jpg')"
                                     class="lead-image">
                                     <a class="lead-image-credit" href="https://www.promonews.tv/videos/2021/06/11/wolf-alice-blue-weekend-jordan-hemingway/71402">Photograph by Jordan Hemingway →</a>
                                 </td>

@@ -17,7 +17,7 @@
                         <td class="newsletter-section">
                             <table>
                                 <tr>
-                                    <td style="background-image: url('https://www.nastylittleman.com/wp-content/uploads/2021/08/STV-DH-THUMBNAIL-1536x930.jpg')"
+                                    <td style="background-image: url('images/leads/2021-05-st-vincent-by-nasty-little-man.jpg')"
                                         class="lead-image">
                                         <a class="lead-image-credit"
                                             href="https://www.nastylittleman.com/st-vincent/">Photograph by Nasty Little
