@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>Audioxide Archive: October 02021</title>
+  <title>Audioxide Archive: November 02021</title>
 </svelte:head>
 
 <!-- 100% background wrapper (grey background) -->
@@ -34,13 +34,13 @@
             <table>
               <tr>
                 <td
-                  style="background-image: url('images/leads/2021-10-james-blake-by-amanda-charchian.jpg')"
+                  style="background-image: url('images/leads/2021-11-idles-by-tom-ham.jpg')"
                   class="lead-image"
                 >
                   <a
                     class="lead-image-credit"
-                    href="https://chuffmedia.com/artists/james-blake"
-                    >Photograph by Amanda Charchian →</a
+                    href="https://partisanrecords.com/artists/idles"
+                    >Photograph by Tom Ham →</a
                   >
                 </td>
               </tr>
@@ -55,26 +55,23 @@
               </tr>
               <tr>
                 <td>
-                  <p class="month">October 02021</p>
-                  <h2 class="title">Artists That Break Your Heart</h2>
-                  <p>Oh Jimmy. Sweet, predictable Jimmy.</p>
+                  <p class="month">November 02021</p>
+                  <h2 class="title">Punk angels</h2>
+                  <p>Thank god for IDLES.</p>
                   <p>
-                    Electronic comfort zone extraordinaire James Blake returned
-                    this month with a new album called <i
-                      ><strong>Friends That Break Your Heart</strong></i
-                    >. After signs of evolution in his previous record it was
-                    disappointing to hear him fall back into his old ways,
-                    though still very mind. We followed that up with
-                    <i><strong>Skin</strong></i>, the debut record of one Joy
-                    Crookes. Bloody fabulous, a kind of big band pop. We cannot
-                    wait to hear where she goes next.
+                    Just when their (delightful) formula was starting to wear thin they drop <i
+                      ><strong>CRAWLER</strong></i
+                    >, surely their most nuanced and intimate record to data. On the other end of 
+                    the wonderful spectrum we had
+                    <i><strong>Hushed and Grim</strong></i> by Mastodon, which was loud and grim and
+                    almost impressively forgettable.
                   </p>
                   <p>
-                    Modest progress made on the album artwork stories, with only
-                    four more added to the database. Still, four more than zero,
-                    right? One day. One day.
+                    We have also been tinkering away on the site, weaning ourselves off a couple of 
+                    paid assets. We are chuffed to report the site code is now fully public and open source.
+                    Hurrah!
                   </p>
-                  <p>Until next time,</p>
+                  <p>Look after yourselves,</p>
                   <p>André, Fred, and Andrew</p>
                 </td>
               </tr>
@@ -111,10 +108,10 @@
                     <tr>
                       <td class="col" valign="top">
                         <img
-                          src="https://audioxide.com/api/images/album-artwork/friends-that-break-your-heart-james-blake-medium-square.jpg"
-                          alt="Album artwork of 'Friends That Break Your Heart' by James Blake"
+                          src="https://audioxide.com/api/images/album-artwork/hushed-and-grim-mastodon-medium-square.jpg"
+                          alt="Album artwork of 'Hushed and Grim' by Mastodon"
                           class="review-image"
-                          style="border: 3px solid #5b9e18;"
+                          style="border: 3px solid rgb(39, 41, 45);"
                         />
                       </td>
                     </tr>
@@ -133,20 +130,16 @@
                   >
                     <tr>
                       <td class="col review-info" valign="top">
-                        <h4 class="review-album-name" style="color: #5b9e18;">
-                          Friends That Break Your Heart
+                        <h4 class="review-album-name" style="color: rgb(39, 41, 45);">
+                          Hushed and Grim
                         </h4>
-                        <h4 class="review-artist-name">James Blake</h4>
+                        <h4 class="review-artist-name">Mastodon</h4>
                         <p class="review-summary">
-                          ‘Blake’s vocals are, predictably, beautiful; Blake’s
-                          production is, predictably, meticulous; and I,
-                          predictably, have lapped it up. But where Assume Form
-                          felt like progress, Friends That Break Your Heart
-                          feels a little too familiar.’
+                          ‘As much fun as its riffs can be, as much as I enjoy the vibrant, crunching tone, and as often as I find myself nodding along to its energetic composition, the album feels like a product of veterans going through the motions. For a really long time.’
                         </p>
                         <span
                           ><a
-                            href="https://audioxide.com/reviews/james-blake-friends-that-break-your-heart/"
+                            href="https://audioxide.com/reviews/mastodon-hushed-and-grim/"
                             >Read review</a
                           > →</span
                         >
@@ -178,10 +171,10 @@
                     <tr>
                       <td class="col" valign="top">
                         <img
-                          src="https://audioxide.com/api/images/album-artwork/skin-joy-crookes-medium-square.jpg"
-                          alt="Album artwork of 'Skin' by Joy Crookes"
+                          src="https://audioxide.com/api/images/album-artwork/crawler-idles-medium-square.jpg"
+                          alt="Album artwork of 'Crawler' by IDLES"
                           class="review-image"
-                          style="border: 3px solid #876a64;"
+                          style="border: 3px solid rgb(4, 8, 7);"
                         />
                       </td>
                     </tr>
@@ -200,20 +193,16 @@
                   >
                     <tr>
                       <td class="col review-info" valign="top">
-                        <h4 class="review-album-name" style="color: #876a64;">
-                          Skin
+                        <h4 class="review-album-name" style="color: #rgb(4, 8, 7);">
+                          Crawler
                         </h4>
-                        <h4 class="review-artist-name">Joy Crookes</h4>
+                        <h4 class="review-artist-name">IDLES</h4>
                         <p class="review-summary">
-                          ‘Crookes has given me another reason to think 2021 is
-                          the year of the confident, brilliant debut. Skin has a
-                          knack for swaying between intimate, soulful jazz cuts
-                          and grander, orchestral pieces, making for a
-                          satisfying, moreish sound.’
+                          ‘IDLES’ most considered, sonically thoughtful, and complex release to date, and it manages to take the band down a new path without sacrificing what we all already love about them.’
                         </p>
                         <span
                           ><a
-                            href="https://audioxide.com/reviews/joy-crookes-skin/"
+                            href="https://audioxide.com/reviews/idles-crawler/"
                             >Read review</a
                           > →</span
                         >
@@ -247,33 +236,33 @@
               <tr>
                 <td>
                   <p>
-                    We only managed to add a handful of cover credits this
-                    month, but it was a lovely handful. Below were the best of
-                    them.
+                    We made big strides on artwork stories this month, adding 20 to the database. This
+                    means just less than half of our reviews now have image credits. There were some lovely tales
+                    among them, though the three below were especially good. 
                   </p>
                   <table class="artwork-story-grid-container">
                     <tr>
                       <td>
                         <a
-                          href="https://audioxide.com/reviews/pink-floyd-the-dark-side-of-the-moon/"
+                          href="https://audioxide.com/reviews/the-verve-urban-hymns/"
                         >
                           <img
-                            src="https://audioxide.com/api/images/album-artwork/the-dark-side-of-the-moon-pink-floyd-medium-square.jpg"
+                            src="https://audioxide.com/api/images/album-artwork/urban-hymns-the-verve-medium-square.jpg"
                             class="artwork-story-image"
-                            alt="Album artwork of 'The Dark Side of the Moon' by Pink Floyd"
+                            alt="Album artwork of 'Urban Hymns' by The Verve"
                             style="border: 3px solid #000;"
                           />
                         </a>
                       </td>
                       <td>
                         <a
-                          href="https://audioxide.com/reviews/thom-yorke-the-eraser/"
+                          href="https://audioxide.com/reviews/preoccupations-preoccupations/"
                         >
                           <img
-                            src="https://audioxide.com/api/images/album-artwork/the-eraser-thom-yorke-medium-square.jpg"
+                            src="https://audioxide.com/api/images/album-artwork/preoccupations-preoccupations-medium-square.jpg"
                             class="artwork-story-image"
-                            alt="Album artwork of 'The Eraser' by Thom Yorke"
-                            style="border: 3px solid #000;
+                            alt="Album artwork of 'Preoccupations' by Preoccupations"
+                            style="border: 3px solid rgb(63, 119, 184);
                                                             margin: auto;
                                                             display: block;"
                           />
@@ -281,13 +270,13 @@
                       </td>
                       <td>
                         <a
-                          href="https://audioxide.com/reviews/new-order-power-corruption-and-lies/"
+                          href="https://audioxide.com/reviews/the-roots-things-fall-apart/"
                         >
                           <img
-                            src="https://audioxide.com/api/images/album-artwork/power-corruption-and-lies-new-order-medium-square.jpg"
+                            src="https://audioxide.com/api/images/album-artwork/things-fall-apart-the-roots-medium-square.jpg"
                             class="artwork-story-image"
-                            alt="Album artwork of 'Power, Corruption & Lies' by New Order"
-                            style="border: 3px solid #3d3246;
+                            alt="Album artwork of 'Things Fall Apart' by The Roots"
+                            style="border: 3px solid #000;
                                                             float: right;"
                           />
                         </a>
@@ -295,14 +284,13 @@
                     </tr>
                   </table>
                   <p>
-                    It was especially interesting to learn that the cover of <i
-                      >The Eraser</i
-                    >
-                    by Thom Yorke - designed by longtime Radiohead collaborator Stanley
-                    Donwood - was but a fraction of a massive artwork depicting disaster
-                    of biblical proportions. You can see the full list of credits
-                    added this month in
-                    <a href="https://github.com/audioxide/data/pull/86"
+                    Why does <i
+                      >Urban Hymns</i
+                    > 
+                    by The Verve have such a simple cover, for example? Why, so fans would ‘just listen to the fucking 
+                    record’ of course. From Bob Dylan to Gorillaz to Bon Iver, you can see the full list of artwork
+                    credits added this month in
+                    <a href="https://github.com/audioxide/data/pull/87"
                       >the GitHub pull request</a
                     >.
                   </p>
@@ -311,6 +299,45 @@
             </table>
           </td>
         </tr>
+
+        <!-- SITE DEVELOPMENT -->
+
+        <tr>
+          <td class="newsletter-section">
+              <table>
+                  <tr>
+                      <td>
+                          <h3 class="section-heading">
+                                  <span class="section-heading-wrapper">
+                                      Site development
+                                  </span>
+                          </h3>
+                      </td>
+                  </tr>
+                  <tr>
+                      <td>
+                          <p>We have long wanted the site to be fully public and open source, and since
+                             rebuilding the site last year we mostly have been. The only thing standing in 
+                             the way was licensed assets: our logo font and icons by Font Awesome. These
+                             had to be stored in a private GitHub repository.
+                          </p>
+                          <p>This year we finally separated ourselves from both, swapping in the original
+                            fair use font - <a href="https://www.dafont.com/rounded-elegance.font">Rounded Elegance</a> - used when we launched the site in 2016,
+                            and open source icons from <a href="https://remixicon.com/">Remix Icon</a>. This
+                            means all our <a href="https://github.com/audioxide">GitHub repositories</a> are now 
+                            public. It won't make much difference to anyone visiting the site, but it's a 
+                            nice feeling all the same.
+                          </p>
+                          <p>We also said goodbye to our beloved hyperlink pink colour, replacing it with
+                            a darker shade that meet AA <a href="https://www.w3.org/WAI/WCAG2AA-Conformance">
+                            Web Content Accessibility</a> guidelines.  
+                          </p>
+                      </td>
+                  </tr>
+              </table>
+          </td>
+      </tr>
+
       </table></td
     >
   </tr>

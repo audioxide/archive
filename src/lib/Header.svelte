@@ -16,6 +16,7 @@
       <i class="fa fa-caret-down" />
     </button>
     <div class="dropdown-content">
+      <a href="/2021-11">November 02021</a>
       <a href="/2021-10">October 02021</a>
       <a href="/2021-09">September 02021</a>
       <a href="/2021-08">August 02021</a>
